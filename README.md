@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zakiqasim100
+-  Hi, I’m @zakiqasim100
 - <> I’m interested in php
 - 🌱 I’m currently learning php
 - 📫 Reach me on twitter @zakiqasim70
