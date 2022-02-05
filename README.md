@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zakiqasim100
 - <> I’m interested in php
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on twitter @zakiqasim70
 
 <!---
