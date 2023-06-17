@@ -1,7 +1,7 @@
 -  Hi, I’m @zakiqasim100
 - <> I’m interested in php
 - 🌱 I’m currently learning php
-- 📫 Reach me on twitter @zakiqasim70
+- 📫 Reach me on email: zakiqasim100@gmail.com
 
 <!---
 zakiqasim100/zakiqasim100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
