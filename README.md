@@ -1,6 +1,3 @@
--  Hi, I’m @zakiqasim100
-- <> I’m interested in php
-- 🌱 I’m currently learning php
 - 📫 Reach me on email: zakiqasim100@gmail.com
 
 <!---
